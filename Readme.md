@@ -41,7 +41,9 @@ This Python script analyzes sales data from a CSV file and performs various oper
     ```bash
     python banking_sales_analysis.py
     ```
+3. Follow the prompts to perform data analysis and visualization.
 
+   
 ## 📈 Data_Analysis_Methods
 
 - **Data Visualization**: Utilized matplotlib and seaborn libraries to create visual representations of the data including histograms
@@ -50,8 +52,6 @@ This Python script analyzes sales data from a CSV file and performs various oper
 
 - **Grouping and Aggregation**: Grouped the data based on different categorical variables and performed aggregation functions to summarize the information within each group.
 
-
-3. Follow the prompts to perform data analysis and visualization.
 
 ## Data_Visualization
 ![Distribution of Call Duration](Graph-images/Distribution_of_Call%20Duration.png)
