@@ -7,7 +7,7 @@ This Python script analyzes sales data from a CSV file and performs various oper
 
 - [Installation](#introduction)
 - [Usage](#usage)
-- [Data Visualization](#datavisualization)
+- [Data Visualization](#Data Visualization)
 - [License](#license)
 
 
