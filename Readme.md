@@ -44,10 +44,8 @@ This Python script analyzes sales data from a CSV file and performs various oper
 3. Follow the prompts to perform data analysis and visualization.
 
 ## Data Visualization
-![Distribution of Call Duration](Graph-images/Distribution_of_Call Duration.png)
-
-![Numbers of calls in each month](Graph-images/Numbers_of_calls_in each month.png)
-
+![Distribution of Call Duration](Graph-images/Distribution_of_Call%20Duration.png)
+![Numbers of calls in each month](Graph-images/Numbers_of_calls_in%20each%20month.png)
 ![Distribution of calls](Graph-images/distribution_of_calls.png)
 
 
