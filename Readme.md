@@ -7,6 +7,7 @@ This Python script analyzes sales data from a CSV file and performs various oper
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Data Analysis Methods](#Data_Analysis_Methods)
 - [Data_Visualization](#data_visualization)
 - [License](#license)
 
@@ -40,6 +41,15 @@ This Python script analyzes sales data from a CSV file and performs various oper
     ```bash
     python banking_sales_analysis.py
     ```
+
+## Data Analysis Methods
+
+- **Data Visualization**: Utilized matplotlib and seaborn libraries to create visual representations of the data including histograms
+
+- **Descriptive Statistics**: Calculated summary statistics such as mean, median, mode, and standard deviation to understand the central tendency and variability of the data.
+
+- **Grouping and Aggregation**: Grouped the data based on different categorical variables and performed aggregation functions to summarize the information within each group.
+
 
 3. Follow the prompts to perform data analysis and visualization.
 
