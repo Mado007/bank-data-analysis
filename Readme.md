@@ -3,7 +3,7 @@
 This Python script analyzes sales data from a CSV file and performs various operations including data cleaning, basic analysis, and visualization.
 
 
-## Table of Contents🧾
+## 🧾 Table of Contents 
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -32,7 +32,7 @@ This Python script analyzes sales data from a CSV file and performs various oper
     pip install -r requirements.txt
     ```
 
-## 📊📈Usage
+## 📊 Usage
 
 1. Ensure that the CSV file containing the sales data is placed in the project directory.
 
@@ -42,7 +42,7 @@ This Python script analyzes sales data from a CSV file and performs various oper
     python banking_sales_analysis.py
     ```
 
-## Data Analysis Methods
+## 📈 Data_Analysis_Methods
 
 - **Data Visualization**: Utilized matplotlib and seaborn libraries to create visual representations of the data including histograms
 
