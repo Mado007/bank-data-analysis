@@ -1,9 +1,9 @@
-<h1>Analysis of Sales Data with Python🐍</h1>
+# Analysis of Sales Data with Python🐍
 
 This Python script analyzes sales data from a CSV file and performs various operations including data cleaning, basic analysis, and visualization.
 
 
-##Table of Contents🧾
+## Table of Contents🧾
 
 - [Installation](#introduction)
 - [Usage](#usage)
